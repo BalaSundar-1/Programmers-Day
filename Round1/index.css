@@ -1,0 +1,107 @@
+/*#1{
+	background-image: url('images/main1.jpg');
+}*/
+#prog{
+	font-size: 40px;
+}
+#pic{
+  background-image: url('images/main1.jpg');
+  background-size: cover;
+}
+#insu{
+	color:white;
+}
+#icon1{
+	font-size: 40px;
+	color: darkblue;
+}
+#icon2{
+	font-size: 40px;
+	color: green;
+}
+#icon3{
+	font-size: 40px;
+	color: orange;
+}
+#icon4{
+	font-size: 40px;
+	color: deeppink;
+}
+#icon5{
+	font-size: 40px;
+	color: red;
+}
+#icon6{
+	font-size: 40px;
+	color: lightblue;
+}
+#c1{
+	margin-left: 30px;
+}
+#c11{
+	height: 400px;
+	margin-left: 40px;
+	background-size: cover;
+
+
+}
+#c12{
+	height: 400px;
+	margin-left: 40px;
+}
+#d3img{
+   height: 390px;
+   width: 100%;
+   box-shadow: 10px 10px grey;
+}
+
+
+
+}
+#greater{
+	width: 50px;
+	height: 50px;
+}
+#checkprog{
+	width: 100%;
+	height: 4px;
+	background-color: blue;
+}
+#faq{
+	height: 100%;
+	width: 100%;
+}
+#l2{
+	color:white;
+}
+#l{
+	height: 300px;
+	width: 500px;
+}
+#fl{
+	position: absolute;
+	top: 460px;
+	left:150px;
+	width: 1000px;
+	background-color: darkslateblue									;
+}
+#fic{
+	font-size: 70px;
+
+}
+#main{
+	position: relative;
+}
+#r1{
+	margin-left: 450px;
+}#r2{
+	margin-left: 50px;
+
+}
+#od{
+	color: white;
+}
+#blog{
+	margin-left: 20px;
+}
+
